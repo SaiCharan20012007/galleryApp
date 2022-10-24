@@ -1,0 +1,24 @@
+/* Write your code here. */
+.listItem {
+  list-style-type: none;
+  padding: 5px;
+  cursor: pointer;
+}
+.smallImage {
+  height: 40px;
+  width: 40px;
+  border-radius: 7px;
+}
+.smallImageT {
+  height: 40px;
+  width: 40px;
+  border-radius: 7px;
+  opacity: 0.5;
+}
+.btn {
+  height: 40px;
+  width: 40px;
+  border-radius: 7px;
+  border-width: 0px;
+  padding: 0px;
+}
